@@ -8,6 +8,7 @@ def click01():
     call('up')
 
 root = tk.Tk()
+root.title('Uppy')
 frame1 = tk.Frame(root)
 frame1.pack(side=tk.TOP, fill=tk.X)
 
