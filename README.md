@@ -1,7 +1,7 @@
-# uppy
-Because you know you need a scary looking red button that actually just updates your system.
+# danger!
+Sometimes you just need to hit the red button.
 
-Uppy is a Python/Tkinter frontend for linux updater tool. You must have up installed on your system:
+Python/Tkinter frontend for Joe Collins' linux updater tool. You must have up installed on your system:
 
 https://github.com/EzeeLinux/up-debian_ubuntu_update_tool
 
