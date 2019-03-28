@@ -5,6 +5,8 @@ Python/Tkinter frontend for Joe Collins' linux updater tool. You must have up in
 
 https://github.com/EzeeLinux/up-debian_ubuntu_update_tool
 
-As well as the package python-tk.
+As well as the package python3-tk:
+
+`sudo apt-get install python3-tk`
 
 ![](https://github.com/porkostomus/uppy/blob/master/shot-2018-01-30_07-44-08.png)
