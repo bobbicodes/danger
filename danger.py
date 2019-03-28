@@ -1,4 +1,4 @@
-import Tkinter as tk
+import tkinter as tk
 from subprocess import call
 
 button_flag = True
